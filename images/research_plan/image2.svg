@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40.957279mm"
+   height="29.040125mm"
+   viewBox="0 0 40.957279 29.040125"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ArrowWideHeavy"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideHeavy-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="m 1,0 -3,3 h -2 l 3,-3 -3,-3 h 2 z"
+         id="path3-8" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-7.5072088,-7.6697562)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-opacity:1"
+       id="rect1-8"
+       width="15.685784"
+       height="10.484281"
+       x="32.513702"
+       y="7.8022556" />
+    <g
+       id="g1">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-opacity:1"
+         id="rect1"
+         width="15.685784"
+         height="10.484281"
+         x="7.6397085"
+         y="7.8022556" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.82252px;line-height:0;font-family:FangSong;-inkscape-font-specification:'FangSong, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-opacity:1"
+         x="13.626214"
+         y="13.023285"
+         id="text1"
+         transform="scale(0.8237001,1.2140341)"><tspan
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:'Calibri Light';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265001;stroke-opacity:1"
+           x="13.626214"
+           y="13.023285">SNR</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-opacity:1"
+         id="rect1-8-5"
+         width="15.685784"
+         height="10.484281"
+         x="32.646202"
+         y="26.093098" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#ArrowWideHeavy-4);marker-end:url(#ArrowWideHeavy-4);paint-order:normal"
+         d="m 23.457992,31.335237 h 8.801853"
+         id="path2-5" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.87845px;line-height:0;font-family:FangSong;-inkscape-font-specification:'FangSong, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264997;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
+         x="51.841911"
+         y="21.376291"
+         id="text2-1"
+         transform="scale(0.63769972,1.5681362)"><tspan
+           id="tspan2-7"
+           style="font-size:3.87845px;fill:#000000;stroke-width:0.265"
+           x="51.841911"
+           y="21.376291">估计目标状态</tspan></text>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-opacity:1"
+         id="rect1-1"
+         width="15.685784"
+         height="10.484281"
+         x="7.7722082"
+         y="26.093098" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.93889px;line-height:0;font-family:FangSong;-inkscape-font-specification:'FangSong, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-opacity:1"
+         x="11.568222"
+         y="27.556814"
+         id="text1-5"
+         transform="scale(0.8237001,1.2140341)"><tspan
+           id="tspan1-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:FangSong;-inkscape-font-specification:FangSong;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.265001;stroke-opacity:1"
+           x="11.568222"
+           y="27.556814">量测量</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#ArrowWideHeavy);marker-end:url(#ArrowWideHeavy);paint-order:normal"
+       d="m 23.325493,13.044396 h 8.801853"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.87845px;line-height:0;font-family:FangSong;-inkscape-font-specification:'FangSong, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264997;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:normal"
+       x="51.634136"
+       y="9.7122259"
+       id="text2"
+       transform="scale(0.63769972,1.5681362)"><tspan
+         id="tspan2"
+         style="font-size:3.87845px;fill:#000000;stroke-width:0.265"
+         x="51.634136"
+         y="9.7122259">跟踪精度指标</tspan></text>
+  </g>
+</svg>
